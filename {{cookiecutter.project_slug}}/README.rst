@@ -21,10 +21,8 @@
 
 {{ cookiecutter.project_short_description }}
 
-{% if is_open_source %}
 * Free software: MIT
 * Documentation: https://{{ cookiecutter.project_slug | replace("_", "-") }}.readthedocs.io.
-{% endif %}
 
 Features
 --------
