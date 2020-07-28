@@ -9,5 +9,5 @@
   "version": "0.1.0",
   "use_pytest": "n",
   "add_pyup_badge": "n",
-  "command_line_interface": ["Click", "Argparse", "No command-line interface"],
+  "command_line_interface": ["Click", "Argparse", "No command-line interface"]
 }
